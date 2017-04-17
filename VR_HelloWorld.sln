@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_HelloWorld", "Assembly-CSharp.csproj", "{E73C40F5-65F6-F768-7EB3-5C0F807B54EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_HelloWorld", "Assembly-CSharp-Editor.csproj", "{DB2D5325-44E3-9C24-0B6D-404EE8024671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73C40F5-65F6-F768-7EB3-5C0F807B54EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73C40F5-65F6-F768-7EB3-5C0F807B54EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73C40F5-65F6-F768-7EB3-5C0F807B54EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73C40F5-65F6-F768-7EB3-5C0F807B54EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2D5325-44E3-9C24-0B6D-404EE8024671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2D5325-44E3-9C24-0B6D-404EE8024671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2D5325-44E3-9C24-0B6D-404EE8024671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2D5325-44E3-9C24-0B6D-404EE8024671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
